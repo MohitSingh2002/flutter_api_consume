@@ -1,4 +1,6 @@
-# blog_app
+# Flutter API Consume
+
+A app made with Flutter Frontend and Node.js as a Backend.
 
 A new Flutter application.
 
